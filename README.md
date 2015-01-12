@@ -13,3 +13,6 @@ For more datasets and APIs on South Korean politics and legislations, please vis
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/OT5BH43R0QH2QHI)
